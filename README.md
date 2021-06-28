@@ -1,2 +1,0 @@
-# Teleinfo-Examen
-Examen
